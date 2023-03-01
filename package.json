@@ -13,5 +13,14 @@
   "license": "ISC",
   "dependencies": {
     "jquery": "^3.6.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BotanikOriginal/Projects.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BotanikOriginal/Projects/issues"
+  },
+  "homepage": "https://github.com/BotanikOriginal/Projects#readme"
 }
